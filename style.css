@@ -91,3 +91,46 @@ h1 {
 }
 
 /* Organizing rest of Section-1 */
+
+/* Basic Styling of Section-2 */
+.section-2 > h2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+}
+
+.pc-and-info-container > img {
+  width: 300px;
+  height: 200px;
+  border: 8px solid #3882f6;
+  border-radius: 6px;
+}
+
+.pc-and-info-container > p {
+  color: #1f2937;
+  font-size: 20px;
+}
+/* Basic Styling of Section-2 */
+
+/* Organizing Section-2 */
+h2 {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.all-pcs-and-info-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 10px;
+}
+
+.pc-and-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+/* Organizing Section-2 */
