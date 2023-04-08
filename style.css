@@ -132,5 +132,32 @@ h2 {
   justify-content: center;
   align-items: center;
   gap: 5px;
+  margin-bottom: 20px;
 }
 /* Organizing Section-2 */
+
+/* Basic Styling of Section-3 */
+.section-3 {
+  background-color: #e5e7eb;
+}
+
+.quote-container > .quote {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote-container > .quoter {
+  text-align: end;
+  font-size: 25px;
+}
+/* Basic Styling of Section-3 */
+
+/* Organizing Section-3 */
+.section-3 {
+  display: flex;
+  justify-content: center;
+  padding: 100px 150px;
+}
+/* Organizing Section-3 */

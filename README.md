@@ -8,10 +8,12 @@ This project involves creating a complete webpage from scratch by referring to p
 
 Status:
 
-- 08 April 2023
-  Markup fully complete
-  Styling of Section-1/Hero done
-  Styling of Section-2/PCs done
+08 April 2023
+
+- Markup fully complete
+- Styling of Section-1/Hero done
+- Styling of Section-2/PCs done
+- Styling of Section-3/Quote section done
 
 Sources
 
